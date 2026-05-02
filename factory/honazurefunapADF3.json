@@ -1,0 +1,15 @@
+{
+	"name": "honazurefunapADF3",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cc0ec6a2-cddf-4449-b749-777910db9fdd",
+		"tenantId": "619ccd0d-0416-4b37-8cdd-bce10779ece6"
+	}
+}
